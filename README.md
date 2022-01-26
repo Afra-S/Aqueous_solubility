@@ -6,9 +6,7 @@ The repo contains 1 datafiles.
 
 
 # Install the following:
-
 `Pandas:           - pip install pandas
-
 numpy:            - pip install numpy
 scikit-learn:     - pip install scikit-learn
 matplotlib:       - pip install matplotlib 
